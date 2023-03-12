@@ -32,6 +32,12 @@ QEC QAE Paper Implementation
 Process
 
 
+Education
+------
+UBC Computer Engineering
+
+
+
 About Me
 ------
 Contact me
