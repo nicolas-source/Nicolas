@@ -1,20 +1,20 @@
-[//]: # (---)
+---
 
-[//]: # (permalink: /)
+permalink: /
 
-[//]: # ()
-[//]: # ([//]: # &#40;title: "Capstone: Protein Sequence Selection via Deep Learning"&#41;)
-[//]: # (excerpt: "About me")
 
-[//]: # (author_profile: true)
+[//]: # (title: "Capstone: Protein Sequence Selection via Deep Learning")
+excerpt: "About me"
 
-[//]: # (redirect_from: )
+author_profile: true
 
-[//]: # (  - /about/)
+redirect_from: 
 
-[//]: # (  - /about.html)
+  - /about/
 
-[//]: # (---)
+  - /about.html
+
+---
 
 
 Capstone
