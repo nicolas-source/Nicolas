@@ -3,7 +3,7 @@
 permalink: /
 
 
-[//]: # (title: "Capstone: Protein Sequence Selection via Deep Learning")
+title: "Capstone: Protein Sequence Selection via Deep Learning"
 excerpt: "About me"
 
 author_profile: true
@@ -16,6 +16,7 @@ redirect_from:
 
 ---
 
+Thing
 
 Capstone
 ======
