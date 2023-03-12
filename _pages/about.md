@@ -23,14 +23,15 @@ Capstone
 What is
 What I did
 
-<Gif>
+Insert Gif
 
 GymBud Project
 ======
 What is
 What I did
 
-<Gif>
+Insert Gif
+
 
 GAN Paper Implementation
 ------
