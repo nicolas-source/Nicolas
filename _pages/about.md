@@ -44,7 +44,7 @@ Process
 
 Web Cyber Security Analysis
 ------
-![](/pdfs/Security_Analysis_Report.png)
+![PNG](/pdfs/Security_Analysis_Report.png)
 
 Education
 ------
