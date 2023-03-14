@@ -48,7 +48,7 @@ Web Cyber Security Analysis
 [//]: # (![Security_Analysis_Report]&#40;../pdfs/Security_Analysis_Report.png&#41;)
 ![Security_Analysis_Report](test.png)
 
-![Logo Jekyll](https://nicolas-source.github.io/nicolas/blob/acad/_pages/test.png )
+![Logo Jekyll](https://nicolas-source.github.io/nicolas/blob/acad/_pages/test.png)
 
 <ul>
 <li  markdown="1">
