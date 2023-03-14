@@ -36,7 +36,7 @@ Insert Gif
 GAN Paper Implementation
 ------
 <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_animation.gif?raw=true" 
-width="80%" height="80%" />
+width="60%" height="60%" />
 
 
 
@@ -44,16 +44,14 @@ QEC QAE Paper Implementation
 ------
 Process
 
-Web Cyber Security Analysis
+Web Cyber Security Analysis Report
 ------
 
 
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/87e8e38f399fb685839de8c9abedc748e442554a/content/Security_Analysis_Report-01.png" 
-width="60%" height="60%">
+width="80%" height="80%">
 
-[Report Link](https://github.com/nicolas-source/nicolas/blob/87e8e38f399fb685839de8c9abedc748e442554a/content/Security_Analysis_Report.pdf)
-
-[//]: # (<iframe width="100%" height="800" src="path-to-pdf">)
+[Full Report Link](https://github.com/nicolas-source/nicolas/blob/87e8e38f399fb685839de8c9abedc748e442554a/content/Security_Analysis_Report.pdf)
 
 Education
 ------
