@@ -35,8 +35,8 @@ Insert Gif
 
 GAN Paper Implementation
 ------
-Process
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80%" height="80%" />
 
 QEC QAE Paper Implementation
 ------
