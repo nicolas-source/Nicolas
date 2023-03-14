@@ -35,8 +35,10 @@ Insert Gif
 
 GAN Paper Implementation
 ------
+<img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_animation.gif?raw=true" 
+width="80%" height="80%" />
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80%" height="80%" />
+
 
 QEC QAE Paper Implementation
 ------
