@@ -34,7 +34,7 @@ GymBud Project
 What is
 What I did
 
-
+<p float="left">
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true
 "
@@ -44,6 +44,7 @@ width="80%" height="80%">
 https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true
 "
 width="80%" height="80%">
+</p>
 
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
