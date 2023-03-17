@@ -57,20 +57,15 @@ width="300">
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="300"/>
+          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="400"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="300"/>
+          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="400"/>
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true" width="300"/>
      </div>
 </div>
-
-<img src="
-https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
-"
-width="80%" height="80%">
 
 
 GAN Paper Implementation
