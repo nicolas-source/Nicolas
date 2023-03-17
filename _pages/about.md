@@ -26,7 +26,7 @@ What I did
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=true
 "
-width="60%" height="60%" />
+width="100%" height="100%" />
 
 
 GymBud Project
