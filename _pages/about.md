@@ -55,18 +55,39 @@ width="300">
 ![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true"title-1") ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true "title-2")
 
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="400"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="400"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true" width="300"/>
-     </div>
-</div>
 
+<ul>
+  <li>
+     <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true"/>
+  </li>
+  <li>
+    <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true"/>
+  </li>
+  <li>
+    <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true"/>
+  </li>
+</ul>
+
+
+
+<style>
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  height: 40vh;
+  flex-grow: 1;
+}
+
+img {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+</style>
 
 GAN Paper Implementation
 ------
