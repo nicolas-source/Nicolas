@@ -23,7 +23,11 @@ Capstone
 What is
 What I did
 
-Insert Gif
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=true
+"
+width="60%" height="60%" />
+
 
 GymBud Project
 ======
