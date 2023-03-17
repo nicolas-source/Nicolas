@@ -34,7 +34,21 @@ GymBud Project
 What is
 What I did
 
-Insert Gif
+
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true
+"
+width="80%" height="80%">
+
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true
+"
+width="80%" height="80%">
+
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
+"
+width="80%" height="80%">
 
 
 GAN Paper Implementation
