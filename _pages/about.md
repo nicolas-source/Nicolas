@@ -64,7 +64,12 @@ width="80%" height="80%">
 
 QEC QAE Paper Implementation
 ------
-Process
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
+"
+width="80%" height="80%">
+
+
 
 Web Cyber Security Analysis Report
 ------
