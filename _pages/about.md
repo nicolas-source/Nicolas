@@ -48,6 +48,8 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?
 width="100">
 </p>
 
+![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true"title-1") ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true "title-2")
+
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
 "
