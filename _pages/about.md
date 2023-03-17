@@ -16,12 +16,11 @@ redirect_from:
 
 ---
 
-Thing
+Selecting optimal proteins for experimentation is a manual and time-consuming task.
+Here, working closely with the client, I engineered a solution leveraging recent advances in natural language processing to help predict these proteins.
+My role was to engineer data, develop a model, and integrated it with GUI.
 
-Capstone
-======
-What is
-What I did
+
 
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=true
@@ -31,8 +30,11 @@ width="100%" height="100%" />
 
 GymBud Project
 ======
-What is
-What I did
+Studies show that velocity-based training is highly effective.
+It is based on the idea that the speed of movement is related to the intensity of the exercise.
+However, current devices that track exercise movement cost upwards of $300 USD to $2000 USD, making it unaffordable for many.
+Here, I led a team of 4 to prototype a similar device at a fraction of the cost in order to improve accessibility to this training method.
+
 
 <p float="left">
 <img src="
