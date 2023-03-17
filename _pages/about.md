@@ -40,12 +40,12 @@ Here, I led a team of 4 to prototype a similar device at a fraction of the cost 
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true
 "
-width="80%" height="80%">
+width="100">
 
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true
 "
-width="80%" height="80%">
+width="100">
 </p>
 
 <img src="
