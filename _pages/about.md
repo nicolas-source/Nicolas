@@ -56,6 +56,10 @@ GAN Paper Implementation
 <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_animation.gif?raw=true" 
 width="60%" height="60%" />
 
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/real_vs_fake.png?raw=true
+"
+width="80%" height="80%">
 
 
 QEC QAE Paper Implementation
