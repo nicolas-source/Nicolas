@@ -3,7 +3,7 @@
 permalink: /
 
 
-title: "Capstone: Protein Sequence Selection via Deep Learning"
+title: "Personal Projects"
 excerpt: "About me"
 
 author_profile: true
@@ -15,7 +15,11 @@ redirect_from:
   - /about.html
 
 ---
+Things I did
 
+
+Capstone: Protein Sequence Selection via Deep Learning
+======
 Selecting optimal proteins for experimentation is a manual and time-consuming task.
 Here, working closely with the client, I engineered a solution leveraging recent advances in natural language processing to help predict these proteins.
 My role was to engineer data, develop a model, and integrated it with GUI.
