@@ -82,9 +82,14 @@ Displaying to GUI
 
 
 
-GAN Paper Implementation
+Generative Adversarial Network Paper Implementation
 ------
-<img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_animation.gif?raw=true" 
+<img src="https://raw.githubusercontent.com/nicolas-source/nicolas/acad/content/GAN_net.svg"
+width="60%" height="60%" />
+Diagram of GAN using deep convolutions
+
+
+<img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_gen.gif?raw=true" 
 width="60%" height="60%" />
 
 Progression of Generator iterations
