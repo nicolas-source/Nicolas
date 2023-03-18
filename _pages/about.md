@@ -43,15 +43,15 @@ Here, I led a team of 4 to prototype a similar device at a fraction of the cost 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="300"/>
-            Denoising sensor data and reducing dimensionality
+            <p text-align="center"> Denoising sensor data and reducing dimensionality </p>
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="300"/>
-            Detecting repetition and calculating average speed and displacement
+            <p text-align="center"> Detecting repetition and calculating average speed and displacement </p>
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true" width="400"/>
-            Displaying to GUI
+            <p text-align="center"> Displaying to GUI </p>
      </div>
 </div>
 
@@ -83,15 +83,15 @@ Comparison of real Images (left) and generated images (right)
 QEC QAE Paper Implementation (In progress)
 ------
 Currently Quantum Error correction requires at least 5 qubits to correct bitflip and phase flip errors
-
 I aimed to reproduce the results in the paper "Quantum Error Correction with Quantum Autoencoders".
-
 In this paper, the author used a 5 to 1 to 5 autoencoder network to detect and correct errors.
 
-<img src="
+<p text-align="center">
+<img src="  
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
 "
 width="60%" height="60%">
+</p>p>
 
 Abstract depiction of autoencoder network
 
