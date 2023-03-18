@@ -32,12 +32,12 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=tr
 width="100%" height="100%" />
 
 
-GymBud Project
+Project Course: "GymBud" Device
 ======
 Studies show that velocity-based training is highly effective.
 It is based on the idea that the speed of movement is related to the intensity of the exercise.
 However, current devices that track exercise movement cost upwards of 300 USD to 2000 USD, making it unaffordable for many.
-Here, I led a team of 4 to prototype a similar device at a fraction of the cost in order to improve accessibility to this training method.
+Here, I led a team of four to prototype a similar device at a fraction of the cost in order to improve accessibility to this training method.
 
 
 <div style="display:flex">
@@ -54,10 +54,6 @@ Here, I led a team of 4 to prototype a similar device at a fraction of the cost 
             <p text-align="center"> Displaying to GUI </p>
      </div>
 </div>
-
-[//]: # (![alt-text-1]&#40;https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true&#41; | ![alt-text-2]&#40;https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true&#41; | ![alt-text-1]&#40;https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true&#41;)
-
-[//]: # (Denoising sensor data and reducing dimensionality | Detecting repetition and calculating average speed and displacement | Displaying to GUI)
 
 
 
@@ -100,22 +96,10 @@ Abstract depiction of autoencoder network
 
 Web Cyber Security Analysis Report
 ------
-I applied knowledge from an intensive security course to analyze a web application along with three others
+I applied knowledge from an intensive security course to analyze a web application along with three others.
 
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/87e8e38f399fb685839de8c9abedc748e442554a/content/Security_Analysis_Report-01.png" 
 width="80%" height="80%">
 
 [Full Report Link](https://github.com/nicolas-source/nicolas/blob/87e8e38f399fb685839de8c9abedc748e442554a/content/Security_Analysis_Report.pdf)
-
-Education
-------
-UBC Computer Engineering
-
-
-[//]: # ()
-[//]: # (About Me)
-
-[//]: # (------)
-
-[//]: # (Contact me)
 
