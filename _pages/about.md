@@ -106,14 +106,15 @@ QEC QAE Paper Implementation (In progress)
 ------
 Currently Quantum Error correction requires at least 5 qubits to correct bitflip and phase flip errors
 
-I aimed to reproduce the results in the paper "Quantum Error Correction with Quantum Auto Encoders".
+I aimed to reproduce the results in the paper "Quantum Error Correction with Quantum Autoencoders".
 
-In this paper, the author used a 5 to 1 to 5 auto encoder network to detect and correct errors.
+In this paper, the author used a 5 to 1 to 5 autoencoder network to detect and correct errors.
 
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
 "
 width="80%" height="80%">
+Abstract depiction of autoencoder network
 
 
 
