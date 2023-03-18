@@ -47,7 +47,7 @@ Here, I led a team of 4 to prototype a similar device at a fraction of the cost 
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="300"/>
-            <p text-align="center"> Detecting repetition and calculating average speed and displacement </p>
+            <p text-align="center"> Detecting repetition, speed, and displacement </p>
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true" width="400"/>
@@ -55,8 +55,9 @@ Here, I led a team of 4 to prototype a similar device at a fraction of the cost 
      </div>
 </div>
 
-![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true) | ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true) | ![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true)
-Denoising sensor data and reducing dimensionality | Detecting repetition and calculating average speed and displacement | Displaying to GUI
+[//]: # (![alt-text-1]&#40;https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true&#41; | ![alt-text-2]&#40;https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true&#41; | ![alt-text-1]&#40;https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true&#41;)
+
+[//]: # (Denoising sensor data and reducing dimensionality | Detecting repetition and calculating average speed and displacement | Displaying to GUI)
 
 
 
