@@ -40,28 +40,6 @@ However, current devices that track exercise movement cost upwards of 300 USD to
 Here, I led a team of 4 to prototype a similar device at a fraction of the cost in order to improve accessibility to this training method.
 
 
-<p float="left">
-<img src="
-https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true
-"
-width="300">
-
-Denoising sensor data and reducing dimensionality
-
-<img src="
-https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true
-"
-width="300">
-
-Detecting repetition and calculating average speed and displacement
-</p>
-
-<img src="
-https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
-"
-width="500">
-Displaying to GUI
-
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="300"/>
@@ -78,7 +56,7 @@ Displaying to GUI
 </div>
 
 ![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true) | ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true) | ![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true)
-
+Denoising sensor data and reducing dimensionality | Detecting repetition and calculating average speed and displacement | Displaying to GUI
 
 
 
@@ -118,7 +96,7 @@ Abstract depiction of autoencoder network
 
 Web Cyber Security Analysis Report
 ------
-
+I applied knowledge from an intensive security course to analyze a web application along with three others
 
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/87e8e38f399fb685839de8c9abedc748e442554a/content/Security_Analysis_Report-01.png" 
 width="80%" height="80%">
@@ -130,8 +108,10 @@ Education
 UBC Computer Engineering
 
 
+[//]: # ()
+[//]: # (About Me)
 
-About Me
-------
-Contact me
+[//]: # (------)
+
+[//]: # (Contact me)
 
