@@ -64,7 +64,7 @@ Here, I led a team of 4 to prototype a similar device at a fraction of the cost 
 Generative Adversarial Network Paper Implementation
 ------
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/acad/content/GAN_net.svg"
-width="60%" height="60%" />
+/>
 
 Diagram of GAN using deep convolutions
 
