@@ -64,6 +64,7 @@ Generative Adversarial Network Paper Implementation
 ------
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/acad/content/GAN_net.svg"
 width="60%" height="60%" />
+
 Diagram of GAN using deep convolutions
 
 
@@ -76,6 +77,7 @@ Progression of Generator iterations
 https://github.com/nicolas-source/nicolas/blob/acad/content/real_vs_fake.png?raw=true
 "
 width="80%" height="80%">
+
 Comparison of real Images (left) and generated images (right)
 
 QEC QAE Paper Implementation (In progress)
