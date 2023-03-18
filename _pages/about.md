@@ -46,48 +46,27 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.p
 "
 width="300">
 
+Denoising sensor data and reducing dimensionality
+
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true
 "
 width="300">
+
+Detecting repetition and calculating average speed and displacement
 </p>
 
-![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true"title-1") ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true "title-2")
+<img src="
+https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
+"
+width="500">
+Displaying to GUI
+
+![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true) ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true)
+
+![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true)
 
 
-
-<ul>
-  <li>
-     <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true"/>
-  </li>
-  <li>
-    <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true"/>
-  </li>
-  <li>
-    <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true"/>
-  </li>
-</ul>
-
-
-
-<style>
-ul {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-li {
-  height: 40vh;
-  flex-grow: 1;
-}
-
-img {
-  max-height: 100%;
-  min-width: 100%;
-  object-fit: cover;
-  vertical-align: bottom;
-}
-</style>
 
 GAN Paper Implementation
 ------
@@ -113,7 +92,7 @@ In this paper, the author used a 5 to 1 to 5 autoencoder network to detect and c
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
 "
-width="80%" height="80%">
+width="60%" height="60%">
 Abstract depiction of autoencoder network
 
 
