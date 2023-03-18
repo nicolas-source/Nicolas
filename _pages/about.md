@@ -36,7 +36,7 @@ GymBud Project
 ======
 Studies show that velocity-based training is highly effective.
 It is based on the idea that the speed of movement is related to the intensity of the exercise.
-However, current devices that track exercise movement cost upwards of $300 USD to $2000 USD, making it unaffordable for many.
+However, current devices that track exercise movement cost upwards of 300 USD to 2000 USD, making it unaffordable for many.
 Here, I led a team of 4 to prototype a similar device at a fraction of the cost in order to improve accessibility to this training method.
 
 
@@ -62,7 +62,22 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true
 width="500">
 Displaying to GUI
 
-![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true) ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true)
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="300"/>
+            Denoising sensor data and reducing dimensionality
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="300"/>
+            Detecting repetition and calculating average speed and displacement
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true" width="400"/>
+            Displaying to GUI
+     </div>
+</div>
+
+![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true) | ![alt-text-2](https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true)
 
 ![alt-text-1](https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true)
 
