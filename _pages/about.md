@@ -92,6 +92,7 @@ In this paper, the author used a 5 to 1 to 5 autoencoder network to detect and c
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
 "
 width="60%" height="60%">
+
 Abstract depiction of autoencoder network
 
 
