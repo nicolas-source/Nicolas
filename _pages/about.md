@@ -94,14 +94,22 @@ GAN Paper Implementation
 <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_animation.gif?raw=true" 
 width="60%" height="60%" />
 
+Progression of Generator iterations
+
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/real_vs_fake.png?raw=true
 "
 width="80%" height="80%">
+Comparison of real Images (left) and generated images (right)
 
-
-QEC QAE Paper Implementation
+QEC QAE Paper Implementation (In progress)
 ------
+Currently Quantum Error correction requires at least 5 qubits to correct bitflip and phase flip errors
+
+I aimed to reproduce the results in the paper "Quantum Error Correction with Quantum Auto Encoders".
+
+In this paper, the author used a 5 to 1 to 5 auto encoder network to detect and correct errors.
+
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
 "
