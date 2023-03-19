@@ -95,17 +95,15 @@ I repeated recent significant scientific studies to replicate the results in ord
 ### Research paper reproduction “Generative Adversarial Nets” Paper 
 ##### Timeline: 4 Months. Written in Python, Pytorch.
 
-Model Diagram
+###### Model Diagram
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/acad/content/GAN_net.svg"
 />
 
-Below shows the iterations of the model I created in action.
+###### Below shows the iterations of the model I created in action.
 <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GAN_gen.gif?raw=true" 
 width="60%" height="60%" />
 
-
-Below shows a comparison of the real images inputted and the images generated.
-
+###### Below shows a comparison of the real images inputted and the images generated.
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/real_vs_fake.png?raw=true
 "
@@ -122,7 +120,7 @@ Completing this project required extensive research into industry best practices
 ### Research paper reproduction “Quantum Error Correction with Quantum Autoencoders” Paper 
 ##### Timeline: 4 Months. Written in Python, Pytorch.  (In progress)
 
-Abstract depiction of autoencoder network
+###### Abstract depiction of autoencoder network
 <p text-align="center">
 <img src="  
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
