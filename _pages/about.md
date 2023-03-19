@@ -46,7 +46,6 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=tr
 "
 width="100%" height="100%" />
 
-<font size=”2”>
 A major challenge to successful protein experiments, which are used to develop novel drugs, is selecting the most viable protein fragments.
 
 My capstone team worked closely with our client, Gandeeva, to develop a solution to solve this challenge leveraging recent advances in natural language processing.
@@ -54,7 +53,6 @@ My capstone team worked closely with our client, Gandeeva, to develop a solution
 My role was to engineer data, develop a model, and integrated it with a user interface.
 
 There was a constant need to re-prioritize when new information came up in order to fit the project into an eight-month timeline.  This experience will help me participate in designing, implementing, testing, and optimizing solutions.
-</font>
 
 
 
@@ -96,11 +94,6 @@ I repeated recent significant scientific studies to replicate the results in ord
 ### Research paper reproduction “Generative Adversarial Nets” Paper 
 ##### Timeline: 4 Months. Written in Python, Pytorch.
 
-This was an early paper that explored one approach of creating computer-generated images using only existing images as a starting point.
-
-To replicate the methods in this paper, I first researched background knowledge in this area of machine learning. Then I reviewed similar existing implementations and adapted them to my use case. I gave images of handwritten digits to train the model. The goal was for the program to produce new digits that looked indistinguishable from the real images inputted.
-
-
 Model Diagram
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/acad/content/GAN_net.svg"
 />
@@ -117,14 +110,16 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/real_vs_fake.png?raw
 "
 width="80%" height="80%">
 
+This was an early paper that explored one approach of creating computer-generated images using only existing images as a starting point.
+
+To replicate the methods in this paper, I first researched background knowledge in this area of machine learning. Then I reviewed similar existing implementations and adapted them to my use case. I gave images of handwritten digits to train the model. The goal was for the program to produce new digits that looked indistinguishable from the real images inputted.
+
 Completing this project required extensive research into industry best practices.
 
 ### Research paper reproduction “Quantum Error Correction with Quantum Autoencoders” Paper 
 ##### Timeline: 4 Months. Written in Python, Pytorch.  (In progress)
 
-
-Autoencoders are computer programs that can learn how to compress and decompress information. In this paper, the author implements this technique on simulated quantum hardware to “compress” quantum states, simulate error occurrences, then “decompress” them to their original unaltered states.
-
+Abstract depiction of autoencoder network
 <p text-align="center">
 <img src="  
 https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=true
@@ -132,7 +127,9 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/qec_cropped.gif?raw=
 width="60%" height="60%">
 </p>
 
-Abstract depiction of autoencoder network
+Autoencoders are computer programs that can learn how to compress and decompress information. 
+In this paper, the author implements this technique on simulated quantum hardware to “compress” quantum states, 
+simulate error occurrences, then “decompress” them to their original unaltered states.
 
 Currently Quantum Error correction requires at least 5 qubits to correct bitflip and phase flip errors
 I aimed to reproduce the results in the paper "Quantum Error Correction with Quantum Autoencoders".
