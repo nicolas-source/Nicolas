@@ -41,7 +41,8 @@ Vancouver BC
 
 # Software Engineering Projects Managed from start to finish
 ### Capstone Project: Machine Learning for Protein Resolvability Prediction
-*** (8 Months) ***
+##### Timeline: 8 Months
+
 A major challenge to successful protein experiments, which are used to develop novel drugs, is selecting the most viable protein fragments.
 
 My capstone team worked closely with our client, Gandeeva, to develop a solution to solve this challenge leveraging recent advances in natural language processing.
@@ -59,7 +60,7 @@ width="100%" height="100%" />
 
 
 ### Computer Engineering Design Studio Course Project: "GymBud" Device 
-*** (4 Months) ***
+##### Timeline: 4 Months
 
 Studies have shown that using devices to track key metrics when exercising can help improve exercise quality. In particular, tracking the velocity of movements during resistance training has proven effective. However, such devices cost hundreds of dollars, making them unaffordable for many. In this project, I led a team of four to prototype a similar device at a fraction of the cost in order to improve the accessibility of this training tool.
 
@@ -92,7 +93,7 @@ I repeated recent significant scientific studies to replicate the results in ord
 
 
 ### Research paper reproduction “Generative Adversarial Nets” Paper 
-*** (4 Months) *** [Python, Pytorch]
+##### Timeline: 4 Months. Written in Python, Pytorch.
 
 This was an early paper that explored one approach of creating computer-generated images using only existing images as a starting point.
 
@@ -125,7 +126,7 @@ width="80%" height="80%">
 Comparison of real Images (left) and generated images (right)
 
 ### Research paper reproduction “Quantum Error Correction with Quantum Autoencoders” Paper 
-(4 Months)  [Python, Pytorch] (In progress)
+##### Timeline: 4 Months. Written in Python, Pytorch.  (In progress)
 
 
 Autoencoders are computer programs that can learn how to compress and decompress information. In this paper, the author implements this technique on simulated quantum hardware to “compress” quantum states, simulate error occurrences, then “decompress” them to their original unaltered states.
