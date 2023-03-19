@@ -22,9 +22,7 @@ I can absorb complex information quickly and effectively apply it to solve probl
 The purpose of this website is to showcase my projects
 
 
-
 # Education
-
 UBC Computer Engineering 2023
 Vancouver BC
 
