@@ -27,15 +27,15 @@ UBC Computer Engineering 2023
 Vancouver BC
 
 ##### Capstone: Machine Learning for Protein Resolvability Prediction
-* <p style="font-size: 14px"> Engineered statistical models to make predictions on protein sequences (Python) </p>
-* <p style="font-size: 14px"> Developed knowledge in deep learning to debug issues on models </p>
-* <p style="font-size: 14px"> Picked up frameworks to implement models (Pytorch, Tensorflow) </p>
+* Engineered statistical models to make predictions on protein sequences (Python)
+* Developed knowledge in deep learning to debug issues on models
+* Picked up frameworks to implement models (Pytorch, Tensorflow)
 
 ##### Major coursework:
-* <p style="font-size: 14px"> Set up Node.js server and MongoDB for backend server for android app (Javascript) </p>
-* <p style="font-size: 14px"> Won cybersecurity mining contest (1st of 50) using GPU programming (C++, Cuda) </p>
-* <p style="font-size: 14px"> Implemented forward and backward operators for convolution and batch norm (Pytorch) </p>
-* <p style="font-size: 14px"> Constructed Turing Complete CPU on FPGA board (Verilog) </p>
+* Set up Node.js server and MongoDB for backend server for android app (Javascript)
+* Won cybersecurity mining contest (1st of 50) using GPU programming (C++, Cuda)
+* Implemented forward and backward operators for convolution and batch norm (Pytorch)
+* Constructed Turing Complete CPU on FPGA board (Verilog)
 
 # Software Engineering Projects Managed from start to finish
 ### Capstone Project: Machine Learning for Protein Resolvability Prediction
