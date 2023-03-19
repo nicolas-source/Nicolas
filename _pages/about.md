@@ -46,6 +46,7 @@ https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=tr
 "
 width="100%" height="100%" />
 
+<font size=”2”>
 A major challenge to successful protein experiments, which are used to develop novel drugs, is selecting the most viable protein fragments.
 
 My capstone team worked closely with our client, Gandeeva, to develop a solution to solve this challenge leveraging recent advances in natural language processing.
@@ -53,7 +54,7 @@ My capstone team worked closely with our client, Gandeeva, to develop a solution
 My role was to engineer data, develop a model, and integrated it with a user interface.
 
 There was a constant need to re-prioritize when new information came up in order to fit the project into an eight-month timeline.  This experience will help me participate in designing, implementing, testing, and optimizing solutions.
-
+</font>
 
 
 
