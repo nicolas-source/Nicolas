@@ -64,7 +64,7 @@ There was a constant need to re-prioritize when new information came up in order
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/rep_detect_plot.png?raw=true" width="300"/>
             <p text-align="center" style="font-size: 14px"> Detecting repetition, speed, and displacement </p>
      </div>
-     <div style="flex:1;padding-left:10px;">
+     <div style="flex:1;padding-left:10px;" text-align="center">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/GUI.png?raw=true" width="400"/>
             <p text-align="center" style="font-size: 14px"> Displaying to GUI </p>
      </div>
