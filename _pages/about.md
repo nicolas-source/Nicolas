@@ -80,10 +80,11 @@ Studies have shown that using devices to track key metrics when exercising can h
      </div>
 </div>
 
+<p style="font-size: 12px">
 For this project, I led the meetings, managed the project scope, and steered the direction.
 I implemented the backend database and data processing for the sensor.
 The outcome was a successfully integrated system with minimal redesign needed.
-
+</p>
 
 
 # Taking a deep dive into significant research papers
