@@ -26,11 +26,6 @@ The purpose of this website is to showcase my projects
 UBC Computer Engineering 2023
 Vancouver BC
 
-##### Capstone: Machine Learning for Protein Resolvability Prediction
-* Engineered statistical models to make predictions on protein sequences (Python)
-* Developed knowledge in deep learning to debug issues on models
-* Picked up frameworks to implement models (Pytorch, Tensorflow)
-
 ##### Major coursework:
 * Set up Node.js server and MongoDB for backend server for android app (Javascript)
 * Won cybersecurity mining contest (1st of 50) using GPU programming (C++, Cuda)
@@ -39,7 +34,7 @@ Vancouver BC
 
 # Software Engineering Projects Managed from start to finish
 ### Capstone Project: Machine Learning for Protein Resolvability Prediction
-##### Timeline: 8 Months
+##### Timeline: 8 Months. Languages & Frameworks: Python, Pytorch, Numpy, Pandas
 
 <img src="
 https://github.com/nicolas-source/nicolas/blob/acad/content/Cap_video.gif?raw=true
@@ -60,7 +55,7 @@ There was a constant need to re-prioritize when new information came up in order
 
 
 ### Computer Engineering Design Studio Course Project: "GymBud" Device 
-##### Timeline: 4 Months
+##### Timeline: 4 Months. Languages & Frameworks: Python, Javascript, MySQL
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
@@ -93,7 +88,7 @@ I repeated recent significant scientific studies to replicate the results in ord
 
 
 ### Research paper reproduction “Generative Adversarial Nets” Paper 
-##### Timeline: 4 Months. Written in Python, Pytorch.
+##### Timeline: 4 Months. Languages & Frameworks: Python, Pytorch
 
 ###### Model Diagram
 <img src="https://raw.githubusercontent.com/nicolas-source/nicolas/acad/content/GAN_net.svg"
@@ -118,7 +113,7 @@ Completing this project required extensive research into industry best practices
 </p>
 
 ### Research paper reproduction “Quantum Error Correction with Quantum Autoencoders” Paper 
-##### Timeline: 4 Months. Written in Python, Pytorch.  (In progress)
+##### Timeline: 4 Months. Languages & Frameworks: Python, PennyLane  (In progress)
 
 ###### Abstract depiction of autoencoder network
 <p text-align="center">
