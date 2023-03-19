@@ -32,6 +32,8 @@ Vancouver BC
 * Implemented forward and backward operators for convolution and batch norm (Pytorch)
 * Constructed Turing Complete CPU on FPGA board (Verilog)
 
+<p id="Software"></p>
+
 # Software Engineering Projects Managed from start to finish
 ### Capstone Project: Machine Learning for Protein Resolvability Prediction
 ##### Timeline: 8 Months. Languages & Frameworks: Python, Pytorch, Numpy, Pandas
@@ -76,10 +78,10 @@ For this project, I led the meetings, managed the project scope, and steered the
 I implemented the backend database and data processing for the sensor.
 The outcome was a successfully integrated system with minimal redesign needed.
 
+<p id="Projects"></p>
 
 # Taking a deep dive into significant research papers
 I repeated recent significant scientific studies to replicate the results in order to better understand the discovery process and deepen my knowledge of machine learning and quantum computing.
-
 
 ### Research paper reproduction “Generative Adversarial Nets” Paper 
 ##### Timeline: 4 Months. Languages & Frameworks: Python, Pytorch
