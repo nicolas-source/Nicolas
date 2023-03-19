@@ -145,7 +145,7 @@ In this paper, the author used a 5 to 1 to 5 autoencoder network to detect and c
 </p>
 
 
-## Web Cyber Security Analysis Report
+## Web Cyber-security Analysis Report
 ##### Timeline: 4 Months
 <p style="font-size: 14px">
 I applied knowledge from an intensive security course to analyze a real world web application along with three others.
