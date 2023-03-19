@@ -63,8 +63,6 @@ There was a constant need to re-prioritize when new information came up in order
 ### Computer Engineering Design Studio Course Project: "GymBud" Device 
 ##### Timeline: 4 Months
 
-Studies have shown that using devices to track key metrics when exercising can help improve exercise quality. In particular, tracking the velocity of movements during resistance training has proven effective. However, such devices cost hundreds of dollars, making them unaffordable for many. In this project, I led a team of four to prototype a similar device at a fraction of the cost in order to improve the accessibility of this training tool.
-
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="https://github.com/nicolas-source/nicolas/blob/acad/content/sensor_filter_plot.png?raw=true" width="300"/>
@@ -79,6 +77,10 @@ Studies have shown that using devices to track key metrics when exercising can h
             <p text-align="center"> Displaying to GUI </p>
      </div>
 </div>
+
+<p style="font-size: 12px">
+Studies have shown that using devices to track key metrics when exercising can help improve exercise quality. In particular, tracking the velocity of movements during resistance training has proven effective. However, such devices cost hundreds of dollars, making them unaffordable for many. In this project, I led a team of four to prototype a similar device at a fraction of the cost in order to improve the accessibility of this training tool.
+</p>
 
 <p style="font-size: 12px">
 For this project, I led the meetings, managed the project scope, and steered the direction.
