@@ -1,17 +1,13 @@
-// /** @type {import('next').NextConfig} */
-// const nextConfig = {}
-//
-// module.exports = nextConfig
+// https://github.com/gregrickaby/nextjs-github-pages
 
-
-// next.config.js
-const isProd = process.env.NODE_ENV === 'production'
-
-const nextConfig  = {
+/**
+ * @type {import('next').NextConfig}
+ **/
+const nextConfig = {
     output: 'export',
-    assetPrefix: isProd ? '/nicolas/' : '',
-    images: {
-        unoptimized: true,
+    basePath: '/nicolas',
+    experimental: {
+        appDir: true,
     },
 }
 
