@@ -1,5 +1,4 @@
 
-
 # # Leaflet cluster map of talk locations
 #
 # (c) 2016-2017 R. Stuart Geiger, released under the MIT license
