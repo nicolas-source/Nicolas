@@ -1,5 +1,7 @@
+'use client';
 import Link from 'next/link'
 import MobileMenu from './mobile-menu'
+import ScrollLink from "@/components/ScrollLink";
 
 export default function Header() {
   return (
@@ -18,19 +20,41 @@ export default function Header() {
 
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">
-            {/* Desktop sign in links */}
-            <ul className="flex grow justify-end flex-wrap items-center">
+            <ul className="flex grow justify-center flex-wrap items-center">
               <li>
-                <Link
-                  href="/signin"
-                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
-                >
-                  First Button
-                </Link>
+                <ScrollLink
+                    href="/#Education"
+                    // onCLick={handleScroll}
+                    className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                  Education
+                </ScrollLink>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
-                  Second Button
+                <ScrollLink
+                    href="/#CapstoneProject"
+                    className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                  Capstone Project
+                </ScrollLink>
+              </li>
+              <li>
+                <ScrollLink
+                    href="/#Projects"
+                    className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                  Projects
+                </ScrollLink>
+              </li>
+              {/*<li>*/}
+              {/*  <Link*/}
+              {/*      href="/#Resume"*/}
+              {/*      className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">*/}
+              {/*    Resume*/}
+              {/*  </Link>*/}
+              {/*</li>*/}
+              <li>
+                <Link
+                    href="https://www.linkedin.com/in/nicolas-zheng-344a1b159"
+                    className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                  LinkedIn
                 </Link>
               </li>
             </ul>
