@@ -1,3 +1,5 @@
+import IconList from "@/components/IconList";
+
 export const metadata = {
   title: 'Nicolas',
   description: 'Portfolio',
@@ -15,6 +17,7 @@ export default function Home() {
       <Hero />
       <Features />
       <Zigzag />
+      <IconList />
       {/*<Testimonials />*/}
     </>
   )

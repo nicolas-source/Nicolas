@@ -40,7 +40,7 @@ export default function Hero() {
             {/*</div>*/}
           </div>
 
-          <div className="py-28 md:py-20"></div>
+          {/*<div className="py-28 md:py-20"></div>*/}
 
 
           {/*<div id="CapstoneProject" className="max-w-3xl mx-auto text-center pb-12 md:pb-16">*/}
