@@ -1,24 +1,23 @@
-import IconList from "@/components/IconList";
-
 export const metadata = {
-  title: 'Nicolas',
-  description: 'Portfolio',
+    title: 'Nicolas',
+    description: 'Portfolio',
 }
 
 import Hero from '@/components/hero'
 import Features from '@/components/features'
-import Newsletter from '@/components/newsletter'
 import Zigzag from '@/components/zigzag'
-import Testimonials from '@/components/testimonials'
+import ExperienceList from "@/components/ExperienceList";
+import EducationList from "@/components/EducationList";
 
 export default function Home() {
-  return (
-    <>
-      <Hero />
-      <Features />
-      <Zigzag />
-      <IconList />
-      {/*<Testimonials />*/}
-    </>
-  )
+    return (
+        <>
+            <Hero/>
+            <EducationList/>
+            <ExperienceList/>
+            {/*<Features />*/}
+            <Zigzag/>
+
+        </>
+    )
 }

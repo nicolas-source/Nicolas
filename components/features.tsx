@@ -4,12 +4,12 @@ export default function Features() {
 
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
                 <div className="py-12 md:py-20">
-                    <div className="py-12 md:py-12 border-t border-gray-800"></div>
+                    <div className="py-12 md:py-12 border-t border-slate-400"></div>
                     {/* Section header */}
                     <div id="Education" className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
                         <h2 className="h2 mb-4">Education</h2>
-                        <p className="text-xl text-gray-400">UBC Bachelors of Applied Science in Computer
-                            Engineering</p> <p className="text-xl text-gray-400">Graduated with Distinction</p>
+                        <p className="text-xl text-slate-800">UBC Bachelors of Applied Science in Computer
+                            Engineering</p> <p className="text-xl text-slate-800">Graduated with Distinction</p>
                     </div>
 
                     {/* Items */}
@@ -30,7 +30,7 @@ export default function Features() {
 
 
                             <h4 className="h4 mb-2">Software Principles</h4>
-                            <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in
+                            <p className="text-lg text-slate-800 text-center">Duis aute irure dolor in reprehenderit in
                                 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                                 cupidatat.</p>
                         </div>
@@ -46,7 +46,7 @@ export default function Features() {
                                       strokeWidth="2" strokeLinecap="square"/>
                             </svg>
                             <h4 className="h4 mb-2">Back-End</h4>
-                            <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in
+                            <p className="text-lg text-slate-800 text-center">Duis aute irure dolor in reprehenderit in
                                 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                                 cupidatat.</p>
                         </div>
@@ -65,7 +65,7 @@ export default function Features() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">Front-End</h4>
-                            <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in
+                            <p className="text-lg text-slate-800 text-center">Duis aute irure dolor in reprehenderit in
                                 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                                 cupidatat.</p>
                         </div>
@@ -83,7 +83,7 @@ export default function Features() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">Deep Learning</h4>
-                            <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in
+                            <p className="text-lg text-slate-800 text-center">Duis aute irure dolor in reprehenderit in
                                 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                                 cupidatat.</p>
                         </div>
@@ -100,7 +100,7 @@ export default function Features() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">Cyber Security</h4>
-                            <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in
+                            <p className="text-lg text-slate-800 text-center">Duis aute irure dolor in reprehenderit in
                                 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                                 cupidatat.</p>
                         </div>
@@ -120,7 +120,7 @@ export default function Features() {
                                 </g>
                             </svg>
                             <h4 className="h4 mb-2">Projects</h4>
-                            <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in
+                            <p className="text-lg text-slate-800 text-center">Duis aute irure dolor in reprehenderit in
                                 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                                 cupidatat.</p>
                         </div>
