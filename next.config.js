@@ -5,11 +5,11 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-    // output: 'export',
-    // basePath: '/nicolas',
-    // experimental: {
-    //     appDir: true,
-    // },
+    output: 'export',
+    basePath: '/nicolas',
+    experimental: {
+        appDir: true,
+    },
 }
 
 module.exports = nextConfig
