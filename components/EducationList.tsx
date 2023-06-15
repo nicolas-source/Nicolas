@@ -20,8 +20,7 @@ export default function EducationList() {
                                     <div>
                                         <Image
                                             className="absolute left-0 top-0 flex h-24 w-24 items-center justify-centerbg-indigo-600"
-                                            // src={FeatImage01} width={80}
-                                            src='./public/images/UBC.jpg' width={80}
+                                            src={FeatImage01} width={80}
                                             height={80} alt="Features 01"/>
                                     </div>
                                     <p className="font-semibold text-lg">University of British Columbia</p>
