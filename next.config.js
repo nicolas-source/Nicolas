@@ -4,12 +4,27 @@
 /**
  * @type {import('next').NextConfig}
  **/
+// const nextConfig = {
+//     output: 'export',
+//     basePath: '/nicolas',
+//     experimental: {
+//         appDir: true,
+//     },
+// }
+
+const repo = "nicolas";
+const assetPrefix = `/${repo}/`;
+const basePath = `/${repo}`;
+
 const nextConfig = {
-    output: 'export',
-    basePath: '/nicolas',
-    experimental: {
-        appDir: true,
+    trailingSlash: true,
+
+    output: "export",
+    basePath: basePath,
+    assetPrefix: assetPrefix,
+    images: {
+        unoptimized: true,
     },
-}
+};
 
 module.exports = nextConfig
