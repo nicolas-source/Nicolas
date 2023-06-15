@@ -33,6 +33,7 @@ export default function EducationList() {
                                 </dt>
                                 <dd className="mt-2 text-base leading-7 text-slate-800">
                                     <p className="font-semibold">Capstone Project: Machine Learning for Protein Prediction</p>
+                                    <p className="font-normal leading-5 text-neutral-500">Sep 2022 - Apr 2023</p>
                                     <ul className="ml-5 list-disc">
                                         <li className="font-normal leading-6">Engineered statistical models to make
                                             predictions on protein sequences <span className="text-sky-950 font-semibold">(Python)</span>
