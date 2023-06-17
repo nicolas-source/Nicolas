@@ -30,7 +30,7 @@ export default function EducationList() {
                                     <p className="font-normal leading-4 text-neutral-500">Sep 2019 - May 2023</p>
                                 </dt>
                                 <dd className="mt-2 text-base leading-7 text-slate-800">
-                                    <p className="font-semibold">Capstone Project: Machine Learning for Protein Prediction</p>
+                                    <p className="font-semibold">Major Project: Machine Learning for Protein Prediction</p>
                                     <p className="font-normal leading-5 text-neutral-500">Sep 2022 - Apr 2023</p>
                                     <ul className="ml-5 list-disc">
                                         <li className="font-normal leading-6">Engineered statistical models to make
