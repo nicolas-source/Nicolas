@@ -35,6 +35,7 @@ export default function Icon() {
                 </svg>
             </div>
         ),
+
         // ImageResponse options
         {
             // For convenience, we can re-use the exported icons size metadata
