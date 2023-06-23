@@ -48,7 +48,7 @@ export default function ExperienceList() {
                                 </dt>
                                 <dd className="mt-2 text-base leading-7 text-slate-800">
                                     <ul className="list-none">
-                                        <li className="font-normal leading-6">Balanced budget of $20,000+ to run 5 classes for 100+ students
+                                        <li className="font-normal leading-6">Balanced budget of $30,000+ to run 5 classes for 100+ students
                                         </li>
                                         <li className="font-normal leading-6">Redesigned website, increased traffic by over 5x <span className="text-sky-950 font-semibold">(HTML, CSS, Javascript, Bootstrap)</span>
                                         </li>
