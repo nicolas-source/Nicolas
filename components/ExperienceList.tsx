@@ -80,7 +80,6 @@ export default function ExperienceList() {
                     </div>
                 </div>
             </div>
-
         </section>
     )
 }
