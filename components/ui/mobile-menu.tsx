@@ -62,7 +62,7 @@ export default function MobileMenu() {
                     opacity: 0.8
                 }}
             >
-                <ul className="px-4 py-2">
+                <ul className="bg-white px-4 py-2">
                     {/*<li>*/}
                     {/*    <Link href="/"*/}
                     {/*          // className="flex font-medium w-full text-white hover:text-gray-200 py-2 justify-center"*/}

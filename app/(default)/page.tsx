@@ -4,8 +4,6 @@ export const metadata = {
 }
 
 import Hero from '@/components/hero'
-import Features from '@/components/features'
-import Zigzag from '@/components/zigzag'
 import ExperienceList from "@/components/ExperienceList";
 import EducationList from "@/components/EducationList";
 import Projects from "@/components/Projects";
@@ -17,10 +15,6 @@ export default function Home() {
             <Projects/>
             <EducationList/>
             <ExperienceList/>
-            {/*<Features />*/}
-
-            {/*<Zigzag/>*/}
-
         </>
     )
 }
