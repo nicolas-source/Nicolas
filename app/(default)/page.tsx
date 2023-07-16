@@ -8,6 +8,7 @@ import Features from '@/components/features'
 import Zigzag from '@/components/zigzag'
 import ExperienceList from "@/components/ExperienceList";
 import EducationList from "@/components/EducationList";
+import Testimonials from "@/components/Testimonials";
 
 export default function Home() {
     return (
@@ -16,6 +17,8 @@ export default function Home() {
             <EducationList/>
             <ExperienceList/>
             {/*<Features />*/}
+
+            <Testimonials/>
             <Zigzag/>
 
         </>
