@@ -12,12 +12,12 @@ export default function Projects() {
         <div className="py-12 md:py-20 border-t border-gray-800">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
+          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20" data-aos="fade-up" data-aos-delay="100">
             <h2 className="h2">Projects</h2>
           </div>
 
           {/* Projects */}
-          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-2 lg:gap-6 items-start lg:max-w-none">
+          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-2 lg:gap-6 items-start lg:max-w-none" data-aos="fade-up" data-aos-delay="200">
 
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
               <div className="md:flex">
@@ -27,7 +27,7 @@ export default function Projects() {
                 </div>
                 <div className="p-8">
                   <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Company retreats</div>
-                  <Link href="/projects" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible
+                  <Link href="/projects/ProteinPrediction" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible
                     accommodation for your team</Link>
 
                   <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food
