@@ -21,33 +21,46 @@ export default function Header() {
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">
             <ul className="flex grow justify-center flex-wrap items-center">
+              {/*<li>*/}
+              {/*  <Link*/}
+              {/*      href="/"*/}
+              {/*      className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">*/}
+              {/*    Home*/}
+              {/*  </Link>*/}
+              {/*</li>*/}
               <li>
-                <ScrollLink
+                <Link
+                    href="/#Projects"
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
+                  Projects
+                </Link>
+              </li>
+              <li>
+                <Link
                     href="/#Education"
-                    // onCLick={handleScroll}
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl ">
                   Education
-                </ScrollLink>
+                </Link>
               </li>
               <li>
-                <ScrollLink
-                    href="/#CapstoneProject"
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
-                  Capstone Project
-                </ScrollLink>
-              </li>
-              <li>
-                <ScrollLink
+                <Link
                     href="/#Experience"
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Experience
-                </ScrollLink>
+                </Link>
               </li>
               <li>
                 <Link
                     href="https://www.linkedin.com/in/nicolas-zheng-344a1b159"
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   LinkedIn
+                </Link>
+              </li>
+              <li>
+                <Link
+                    href="https://www.linkedin.com/in/nicolas-zheng-344a1b159"
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
+                  Resume
                 </Link>
               </li>
             </ul>

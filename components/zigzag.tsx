@@ -12,7 +12,7 @@ export default function Zigzag() {
                 <div className="py-12 md:py-20 border-t border-slate-400">
 
                     {/* Section header */}
-                    <div id="CapstoneProject" data-aos="fade-up" className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+                    <div id="Projects" data-aos="fade-up" className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
                         {/*<div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-sky-950 bg-sky-200 rounded-full mb-4">Python, Pytorch</div>*/}
                         <h1 className="h2 mb-4">Capstone Project</h1>
                     </div>

@@ -5,7 +5,7 @@ import TestimonialImage01 from '@/public/images/CapstonePoster.png'
 import TestimonialImage02 from '@/public/images/Canada.png'
 import TestimonialImage03 from '@/public/images/Canada.png'
 
-export default function Testimonials() {
+export default function Projects() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -13,12 +13,11 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2">Technical Projects</h2>
+            <h2 className="h2">Projects</h2>
           </div>
 
-          {/* Testimonials */}
+          {/* Projects */}
           <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-2 lg:gap-6 items-start lg:max-w-none">
-
 
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
               <div className="md:flex">
@@ -28,7 +27,7 @@ export default function Testimonials() {
                 </div>
                 <div className="p-8">
                   <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Company retreats</div>
-                  <Link href="/#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible
+                  <Link href="/projects" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible
                     accommodation for your team</Link>
 
                   <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food
