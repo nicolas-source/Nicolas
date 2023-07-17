@@ -1,26 +1,26 @@
-export const data = [
+export default [
     {
-        project_id: 1,
-        project_name: "Machine Learning (NLP) for Protein Prediction",
-        project_points: ["thing one", "thing two", "thing three"],
-        project_image: "@/public/images/CapstonePoster.png"
+        id: 1,
+        name: "Machine Learning (NLP) for Protein Prediction",
+        description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
+        image: "@/public/images/CapstonePoster.png"
     },
     {
-        project_id: 2,
-        project_name: "Machine Learning (NLP) for Protein Prediction",
-        project_points: ["thing one", "thing two", "thing three"],
-        project_image: "@/public/images/CapstonePoster.png"
+        id: 2,
+        name: "Machine Learning (NLP) for Protein Prediction",
+        description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
+        image: "@/public/images/CapstonePoster.png"
     },
     {
-        project_id: 3,
-        project_name: "Machine Learning (NLP) for Protein Prediction",
-        project_points: ["thing one", "thing two", "thing three"],
-        project_image: "@/public/images/CapstonePoster.png"
+        id: 3,
+        name: "Machine Learning (NLP) for Protein Prediction",
+        description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
+        image: "@/public/images/CapstonePoster.png"
     },
     {
-        project_id: 4,
-        project_name: "Machine Learning (NLP) for Protein Prediction",
-        project_points: ["thing one", "thing two", "thing three"],
-        project_image: "@/public/images/CapstonePoster.png"
+        id: 4,
+        name: "Machine Learning (NLP) for Protein Prediction",
+        description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
+        image: "@/public/images/CapstonePoster.png"
     }
 ]

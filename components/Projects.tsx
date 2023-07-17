@@ -4,8 +4,11 @@ import Link from 'next/link';
 import TestimonialImage01 from '@/public/images/CapstonePoster.png'
 import TestimonialImage02 from '@/public/images/Canada.png'
 import TestimonialImage03 from '@/public/images/Canada.png'
+import projectData from '@/data/projectData'
+import internal from "stream";
 
 export default function Projects() {
+    console.log(projectData)
     return (
         <section>
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -43,6 +46,37 @@ export default function Projects() {
                         </div>
 
 
+                        {
+                            projectData.map((project, index) => (
+                                    <div
+                                        className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
+                                        <div className="md:flex">
+                                            <div className="md:shrink-0">
+                                                <Image className="h-48 w-full object-cover md:h-full md:w-48"
+                                                       src={TestimonialImage01}
+                                                       alt="Modern building architecture"/>
+                                            </div>
+                                            <div className="p-8">
+                                                <Link href="#"
+                                                      className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">
+                                                    {project.name}
+                                                </Link>
+                                                <ul className="list-disc">
+                                                    {
+                                                        project.description.map((item, index) => (
+                                                                <li className="mt-1 text-slate-700">
+                                                                    {item}
+                                                                </li>
+                                                            )
+                                                        )
+                                                    }
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                )
+                            )
+                        }
                         <div className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
                             <div className="md:flex">
                                 <div className="md:shrink-0">
