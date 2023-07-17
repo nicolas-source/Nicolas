@@ -5,9 +5,7 @@ import FeatImage01 from '@/public/images/UBC.jpg'
 export default function EducationList() {
     return (
         <section>
-
-
-            <div className="bg-white py-16">
+            <div className="bg-white py-12">
                 <div className="mx-auto max-w-7xl px-6 lg:px-8">
                     <div className="py-6 border-t border-slate-400"></div>
                     <div id="Education" data-aos="fade-up" className="mx-auto max-w-2xl text-center">

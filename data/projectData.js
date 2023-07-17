@@ -5,38 +5,38 @@ export default [
         description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
         image: "/images/CapstonePoster.png",
         link: "/projects/ProteinPrediction",
-        tools: ["React", "NextJs"]
+        tools: ["Python", "Pytorch", "Tensorflow"]
     },
     {
         id: 2,
-        name: "Machine Learning (NLP) for Protein Prediction",
+        name: "Real-world Cyber-security Analysis",
         description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
         image: "/images/CapstonePoster.png",
         link: "/projects/ProteinPrediction",
-        tools: ["React", "NextJs"]
+        tools: ["Analysis", "Technical Communication"]
     },
     {
         id: 3,
-        name: "Machine Learning (NLP) for Protein Prediction",
+        name: "Shopeer Android App",
         description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
         image: "/images/CapstonePoster.png",
         link: "/projects/ProteinPrediction",
-        tools: ["React", "NextJs"]
+        tools: ["React", "NodeJs", "MongoDB", "JUnit"]
     },
     {
         id: 4,
-        name: "Machine Learning (NLP) for Protein Prediction",
+        name: "Personal Website",
         description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
         image: "/images/CapstonePoster.png",
         link: "/projects/ProteinPrediction",
-        tools: ["React", "NextJs"]
+        tools: ["React", "NextJs", "NodeJs"]
     },
     {
         id: 5,
-        name: "Machine Learning (NLP) for Protein Prediction",
+        name: "UBC Dance Club Website",
         description: ["Looking to take your team away on a retreat to enjoy","awesome food and take in some sunshine? We have a list of places to do just that."],
         image: "/images/CapstonePoster.png",
         link: "/projects/ProteinPrediction",
-        tools: ["React", "NextJs"]
+        tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "WordPress"]
     }
 ]

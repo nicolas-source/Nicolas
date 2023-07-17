@@ -1,20 +1,16 @@
 import Image from 'next/image'
 import Link from 'next/link';
 
-import TestimonialImage01 from '@/public/images/CapstonePoster.png'
-import TestimonialImage02 from '@/public/images/Canada.png'
-import TestimonialImage03 from '@/public/images/Canada.png'
 import projectData from '@/data/projectData'
-import internal from "stream";
 
 export default function Projects() {
     return (
         <section>
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
-                <div className="py-12 md:py-20 border-t border-gray-800">
+                <div className="py-8 md:py-16 border-t border-gray-800">
 
                     {/* Section header */}
-                    <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20" data-aos="fade-up"
+                    <div className="max-w-3xl mx-auto text-center pb-8 md:pb-16" data-aos="fade-up"
                          data-aos-delay="100">
                         <h2 className="h2">Projects</h2>
                     </div>
@@ -31,7 +27,6 @@ export default function Projects() {
                                             <div className="md:shrink-0">
                                                 <Image className="h-48 w-full object-cover md:h-full md:w-48"
                                                        src="/images/CapstonePoster.png"
-                                                       // src={TestimonialImage01}
                                                        width={500}
                                                        height={500}
                                                        alt="Project Image"/>
