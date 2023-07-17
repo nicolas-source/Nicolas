@@ -101,8 +101,24 @@ export default function Projects() {
 
 
                     </div>
+          {/* Section header */}
+          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
+            <h2 className="h2">Projects</h2>
+          </div>
+
+          {/* Projects */}
+          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-2 lg:gap-6 items-start lg:max-w-none">
 
                 </div>
+                <div className="p-8">
+                  <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Company retreats</div>
+                  <Link href="/projects" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible
+                    accommodation for your team</Link>
+
+                  <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food
+                    and take in some sunshine? We have a list of places to do just that.</p>
+                </div>
+              </div>
             </div>
         </section>
     )
