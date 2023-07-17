@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const imageStyle = { maxWidth: '100%', height: 'auto' };
 
-const ProjectSingle = (props:any) => {
+export default function ProjectSingle(props:any){
 	return (
 
 			<Link
@@ -36,4 +36,3 @@ const ProjectSingle = (props:any) => {
 	);
 };
 
-export default ProjectSingle;

@@ -13,7 +13,7 @@ export default function Home() {
     return (
         <>
             <Hero/>
-            {/*<TestProjects/>*/}
+            <TestProjects/>
             <Projects/>
             <EducationList/>
             <ExperienceList/>
