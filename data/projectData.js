@@ -3,11 +3,21 @@ export default [
         id: 1,
         shortName: "ProteinPrediction",
         name: "Machine Learning (NLP) for Protein Prediction",
-        description: ["Looking to take your team away on a retreat to enjoy", "awesome food and take in some sunshine? We have a list of places to do just that."],
+                description: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         image: "/images/Capstone/CapstonePoster.png",
         link: "/project/ProteinPrediction",
         tools: ["Python", "Pytorch", "Tensorflow"],
-        projectInfo: ["aaaaaaaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaaaaaaa"],
+        projectInfo: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         projectDate: 'Sep 2022 - Apr 2023',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [
@@ -30,11 +40,21 @@ export default [
         id: 2,
         shortName: "CybersecurityAnalysis",
         name: "Real-world Cyber-security Analysis",
-        description: ["Looking to take your team away on a retreat to enjoy", "awesome food and take in some sunshine? We have a list of places to do just that."],
+                description: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         image: "/images/CybersecurityAnalysis/CybersecurityAnalysis_Testing.png",
         link: "/project/CybersecurityAnalysis",
         tools: ["Analysis", "Presentation"],
-        projectInfo: ["aaaaaaaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaaaaaaa"],
+        projectInfo: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         projectDate: 'Sep 2022 - Dec 2022',
         projectObjective: "Make things",
         projectImages: [
@@ -57,11 +77,21 @@ export default [
         id: 3,
         shortName: "ShopeerAndroidApp",
         name: "Shopeer Android App",
-        description: ["Looking to take your team away on a retreat to enjoy", "awesome food and take in some sunshine? We have a list of places to do just that."],
+        description: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         image: "/images/Shopeer/shopeer_Login.png",
         link: "/project/ShopeerAndroidApp",
         tools: ["React", "NodeJs", "MongoDB", "JUnit"],
-        projectInfo: ["aaaaaaaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaaaaaaa"],
+        projectInfo: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         projectDate: 'May 2022 - Aug 2022',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [
@@ -95,11 +125,21 @@ export default [
         id: 4,
         shortName: "PersonalWebsite",
         name: "Personal Website",
-        description: ["Looking to take your team away on a retreat to enjoy", "awesome food and take in some sunshine? We have a list of places to do just that."],
+                description: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         image: "/images/Capstone/CapstonePoster.png",
         link: "/project/PersonalWebsite",
         tools: ["React", "NextJs", "NodeJs"],
-        projectInfo: ["aaaaaaaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaaaaaaa"],
+        projectInfo: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         projectDate: 'Jul, 2023',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [
@@ -122,11 +162,21 @@ export default [
         id: 5,
         shortName: "UBCDanceClubWebsite",
         name: "UBC Dance Club Website",
-        description: ["Looking to take your team away on a retreat to enjoy", "awesome food and take in some sunshine? We have a list of places to do just that."],
+                description: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         image: "/images/UBCDC/UBCDC_FrontPage.png",
         link: "/project/UBCDanceClubWebsite",
         tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "WordPress"],
-        projectInfo: ["aaaaaaaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaaaaaaa"],
+        projectInfo: [
+            "Engineered statistical models to make predictions on protein sequences",
+            "Developed knowledge in deep learning to debug issues on models",
+            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
+            "Used JIRA and followed AGILE development methodology"
+        ],
         projectDate: 'May 2020',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [

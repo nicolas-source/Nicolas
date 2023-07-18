@@ -39,13 +39,13 @@ export default function Page({params}: {
                 </div>
 
                 {/* Gallery */}
-                <div className="grid grid-cols-1 sm:grid-cols-3 sm:gap-10 mt-12">
+                <div className="grid grid-cols-1 sm:grid-cols-3 sm:gap-10 mt-12 flex-column">
                     {projectObj.projectImages.map((project) => {
                         return (
-                            <div className="mb-10 sm:mb-0" key={project.title}>
+                            <div className="mb-10 sm:mb-0 flex overflow-y-auto overflow-x-auto" key={project.title}>
                                 <Image
                                     src={project.img}
-                                    className="rounded-xl cursor-pointer shadow-lg sm:shadow-none"
+                                    className="rounded-xl cursor-pointer shadow-lg sm:shadow-none object-cover"
                                     alt={project.title}
                                     key={project.title}
                                     layout="responsive"
@@ -61,15 +61,15 @@ export default function Page({params}: {
                 <div className="block sm:flex gap-0 sm:gap-10 mt-14">
                     <div className="w-full sm:w-1/3 text-left">
 
-                        {/* Single project objectives */}
-                        <div className="mb-7">
-                            <p className="font-general-regular text-2xl font-semibold text-ternary-dark dark:text-ternary-light mb-2">
-                                Task
-                            </p>
-                            <p className="font-general-regular text-primary-dark dark:text-ternary-light">
-                                {projectObj.projectObjective}
-                            </p>
-                        </div>
+                        {/*/!* Single project objectives *!/*/}
+                        {/*<div className="mb-7">*/}
+                        {/*    <p className="font-general-regular text-2xl font-semibold text-ternary-dark dark:text-ternary-light mb-2">*/}
+                        {/*        Task*/}
+                        {/*    </p>*/}
+                        {/*    <p className="font-general-regular text-primary-dark dark:text-ternary-light">*/}
+                        {/*        {projectObj.projectObjective}*/}
+                        {/*    </p>*/}
+                        {/*</div>*/}
 
                         {/* Single project technologies */}
                         <div className="mb-7">
@@ -90,15 +90,19 @@ export default function Page({params}: {
                         <p className="text-primary-dark dark:text-primary-light text-2xl font-bold mb-7">
                             Challenge
                         </p>
-                        {projectObj.projectInfo.map((details: any) => {
-                            return (
-                                <p
-                                    className="font-general-regular mb-5 text-lg text-ternary-dark dark:text-ternary-light"
-                                >
-                                    {details}
-                                </p>
-                            );
-                        })}
+                        <ul className="list-disc ml-5">
+
+
+                            {projectObj.projectInfo.map((details: any) => {
+                                return (
+                                    <li
+                                        className="font-general-regular mb-5 text-lg text-ternary-dark dark:text-ternary-light"
+                                    >
+                                        {details}
+                                    </li>
+                                );
+                            })}
+                        </ul>
                     </div>
                 </div>
 

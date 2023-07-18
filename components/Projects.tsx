@@ -25,7 +25,8 @@ export default function Projects() {
                                         className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
                                         <div className="flex-col">
                                             <div className="">
-                                                <Image className="h-48 w-full object-cover object-scale-down hover:object-none"
+                                                {/*<Image className="h-48 w-full object-cover object-scale-down hover:object-none"*/}
+                                                <Image className="h-48 w-full object-cover hover:object-scale-down"
                                                        src={project.image}
                                                        width={500}
                                                        height={500}
@@ -36,7 +37,7 @@ export default function Projects() {
                                                       className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">
                                                     {project.name}
                                                 </Link>
-                                                <ul className="list-disc">
+                                                <ul className="list-disc ml-5">
                                                     {
                                                         project.description.map((item, index) => (
                                                                 <li key={project.id}
