@@ -23,10 +23,10 @@ export default function Projects() {
                             projectData.map((project, index) => (
                                     <div key={project.id}
                                         className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
-                                        <div className="md:flex">
-                                            <div className="md:shrink-0">
-                                                <Image className="h-48 w-full object-cover md:h-full md:w-48"
-                                                       src="/images/CapstonePoster.png"
+                                        <div className="flex-col">
+                                            <div className="">
+                                                <Image className="h-48 w-full object-cover object-scale-down hover:object-none"
+                                                       src={project.image}
                                                        width={500}
                                                        height={500}
                                                        alt="Project Image"/>

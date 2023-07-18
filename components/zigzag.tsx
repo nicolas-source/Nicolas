@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-import FeatImage01 from '@/public/images/UBCDC_FrontPage.png'
-import FeatImage02 from '@/public/images/CapstonePoster.png'
-import FeatImage03 from '@/public/images/GanttChart.png'
-import FeatImage04 from '@/public/images/CapstoneOverview.gif'
+import FeatImage01 from '@/public/images/UBCDC/UBCDC_FrontPage.png'
+import FeatImage02 from '@/public/images/Capstone/CapstonePoster.png'
+import FeatImage03 from '@/public/images/Capstone/CapstoneGanttChart.png'
+import FeatImage04 from '@/public/images/Capstone/CapstoneOverview.gif'
 
 export default function Zigzag() {
     return (
