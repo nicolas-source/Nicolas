@@ -33,10 +33,10 @@ export default function Projects() {
                                                        alt="Project Image"/>
                                             </div>
                                             <div className="px-8 py-6">
-                                                <Link href={project.link}
-                                                      className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">
+                                                {/*<Link href={project.link}*/}
+                                                {/*      className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">*/}
                                                     {project.name}
-                                                </Link>
+                                                {/*</Link>*/}
                                                 <ul className="list-disc ml-5">
                                                     {
                                                         project.description.map((item, index) => (
