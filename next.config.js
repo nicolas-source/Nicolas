@@ -3,17 +3,9 @@
 /**
  * @type {import('next').NextConfig}
  **/
-// const nextConfig = {
-//     output: 'export',
-//     basePath: '/nicolas',
-//     experimental: {
-//         appDir: true,
-//     },
-// }
-
-const repo = "nicolas";
-const assetPrefix = `/${repo}/`;
-const basePath = `/${repo}`;
+// const repo = "nicolas";
+// const assetPrefix = `/${repo}/`;
+// const basePath = `/${repo}`;
 
 // const nextConfig = {
 //     trailingSlash: true,
