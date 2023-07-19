@@ -62,7 +62,7 @@ export default function ExperienceList() {
                                 <dd className="mt-2 text-base leading-7 text-slate-800">
                                     <ul className="list-disc ml-5">
                                         <li className="font-normal leading-6">
-                                            Balanced budget of \$30,000+ to achieve positive revenue to bring five
+                                            Balanced budget of $30,000+ to achieve positive revenue to bring five
                                             affordable dance classes for 100+ students
                                         </li>
                                         <li className="font-normal leading-6">

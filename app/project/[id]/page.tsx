@@ -7,6 +7,7 @@
 
 import Image from 'next/image';
 import projectData from "@/data/projectData";
+import Link from "next/link";
 
 export default function Page({params}: {
     params: { id: string }
@@ -16,7 +17,6 @@ export default function Page({params}: {
     }
 
     var projectObj = projectData.filter(func)[0];
-    console.log(projectObj);
 
 
     return (
@@ -42,17 +42,22 @@ export default function Page({params}: {
                 <div className="grid grid-cols-1 sm:grid-cols-3 sm:gap-10 mt-12 flex-column">
                     {projectObj.projectImages.map((project) => {
                         return (
-                            <div className="mb-10 sm:mb-0 flex overflow-y-auto overflow-x-auto" key={project.title}>
-                                <Image
-                                    src={project.img}
-                                    className="rounded-xl cursor-pointer shadow-lg sm:shadow-none object-cover"
-                                    alt={project.title}
-                                    key={project.title}
-                                    layout="responsive"
-                                    width={100}
-                                    height={90}
-                                />
-                            </div>
+                            <Link href={project.img} className="">
+                                <div className="mb-10 sm:mb-0
+                            flex
+                            hover:scale-125 transition duration-500" key={project.title}>
+                                    <Image
+                                        src={project.img}
+                                        className="rounded-xl cursor-pointer shadow-lg sm:shadow-none object-cover"
+                                        alt={project.title}
+                                        key={project.title}
+                                        layout="responsive"
+                                        width={100}
+                                        height={90}
+                                    />
+
+                                </div>
+                            </Link>
                         );
                     })}
                 </div>
@@ -88,7 +93,8 @@ export default function Page({params}: {
                     {/*  Single project right section details */}
                     <div className="w-full sm:w-2/3 text-left mt-10 sm:mt-0">
                         <p className="text-primary-dark dark:text-primary-light text-2xl font-bold mb-7">
-                            Challenge
+                            {/*Challenge*/}
+                            Description
                         </p>
                         <ul className="list-disc ml-5">
 

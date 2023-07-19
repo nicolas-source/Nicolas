@@ -41,19 +41,18 @@ export default [
         shortName: "CybersecurityAnalysis",
         name: "Real-world Cyber-security Analysis",
                 description: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Presented at the 2023 Vancouver Security Special Interest Group",
+            "Won Best Analysis Project of 2023 for the UBC Cybersecurity Course",
+            "Analyzed potential security flaws of a real-world web application and reported issues to protect sensitive data",
         ],
         image: "/images/CybersecurityAnalysis/CybersecurityAnalysis_Testing.png",
         link: "/project/CybersecurityAnalysis",
         tools: ["Analysis", "Presentation"],
         projectInfo: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Presented at the 2023 Vancouver Security Special Interest Group",
+            "Won Best Analysis Project of 2023 for the UBC Cybersecurity Course",
+            "Analyzed potential security flaws of a real-world web application and reported issues to protect sensitive data",
+            "Conducted manual penetration testing and automated scanning for vulnerabilities to provide client recommendations",
         ],
         projectDate: 'Sep 2022 - Dec 2022',
         projectObjective: "Make things",
@@ -78,19 +77,21 @@ export default [
         shortName: "ShopeerAndroidApp",
         name: "Shopeer Android App",
         description: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Used Node.js and Express.js for backend and MongoDB for database",
+            "Used Websocket for live chat functionality",
+            "Used Codacy for automated testing and code smell",
+            "Used Jest for backend testing",
+            "Used Backend hosted on Microsoft Azure"
         ],
         image: "/images/Shopeer/shopeer_Login.png",
         link: "/project/ShopeerAndroidApp",
         tools: ["React", "NodeJs", "MongoDB", "JUnit"],
         projectInfo: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Shopeer aims to connect people, alleviate economic pressure, and reduce social isolation in urban communities.",
+            "Shopeer is for newly independent adults, newcomers, and people in single-person households searching for companions for everyday activities.",
+            "Through Shopeer, users can input their activities, match with interested peers, and start group chats.",
+            "Running errands or doing recreational activities with peers allows users to reduce costs by buying in bulk or taking advantage of group discounts.",
+            "Link to design doc -> https://docs.google.com/document/d/1Jwydb7bxtgdMewcTUrViGvGbpD4DheYGjudxitidoJE/edit?usp=sharing"
         ],
         projectDate: 'May 2022 - Aug 2022',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
@@ -126,56 +127,41 @@ export default [
         shortName: "PersonalWebsite",
         name: "Personal Website",
                 description: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Used NextJs App Router for dynamic routing and dynamically building formatted pages",
+            "Set up hosting on Oracle cloud vm",
         ],
-        image: "/images/Capstone/CapstonePoster.png",
+        image: "/images/Personalwebsite/personalwebsite_1.png",
         link: "/project/PersonalWebsite",
         tools: ["React", "NextJs", "NodeJs"],
         projectInfo: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Used NextJs App Router for dynamic routing and dynamically building formatted pages",
+            "Set up hosting on Oracle cloud vm",
         ],
         projectDate: 'Jul, 2023',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [
             {
                 title: 'titleName',
-                img: '/images/CapstonePoster.png',
+                img: '/images/Personalwebsite/personalwebsite_1.png',
             },
             {
                 title: 'titleName',
-                img: '/images/CapstonePoster.png',
-            },
-            {
-                title: 'titleName',
-                img: '/images/CapstonePoster.png',
+                img: '/images/Personalwebsite/personalwebsite_2.png',
             },
         ],
-
     },
     {
         id: 5,
         shortName: "UBCDanceClubWebsite",
         name: "UBC Dance Club Website",
                 description: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Redesigned website for responsiveness and mobile use to increase web traffic over 5 times",
         ],
         image: "/images/UBCDC/UBCDC_FrontPage.png",
         link: "/project/UBCDanceClubWebsite",
         tools: ["HTML", "CSS", "JavaScript", "Bootstrap", "WordPress"],
         projectInfo: [
-            "Engineered statistical models to make predictions on protein sequences",
-            "Developed knowledge in deep learning to debug issues on models",
-            "Implemented models using industry frameworks (Pytorch, Tensorflow)",
-            "Used JIRA and followed AGILE development methodology"
+            "Redesigned website for responsiveness and mobile use to increase web traffic over 5 times",
         ],
         projectDate: 'May 2020',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
