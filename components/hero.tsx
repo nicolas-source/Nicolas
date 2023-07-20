@@ -1,7 +1,3 @@
-import VideoThumb from '@/public/images/hero-image-01.jpg'
-import ModalVideo from '@/components/modal-video'
-import Image from 'next/image';
-import myGif from '@/public/images/CapstoneOverview.gif'
 
 
 
@@ -31,24 +27,6 @@ export default function Hero() {
             <h1 className="h1 mb-4" data-aos="fade-up">Nicolas Zheng</h1>
             <p className="text-xl text-slate-800 mb-2" data-aos="fade-up" data-aos-delay="200">UBC Computer Engineering Graduate</p>
           </div>
-
-          {/*<div className="py-28 md:py-20"></div>*/}
-
-
-          {/*<div id="CapstoneProject" className="max-w-3xl mx-auto text-center pb-12 md:pb-16">*/}
-          {/*  <h1 className="h3 mb-4" data-aos="fade-up">Capstone: Deep Learning for Protein Sequence Resolvability</h1>*/}
-          {/*</div>*/}
-
-          {/*<Image src={myGif} alt="gif" height={1080} width={1920} />*/}
-
-          {/*<ModalVideo*/}
-          {/*  thumb={VideoThumb}*/}
-          {/*  thumbWidth={1024}*/}
-          {/*  thumbHeight={576}*/}
-          {/*  thumbAlt="CapstoneVideo"*/}
-          {/*  video="/videos/video.mp4"*/}
-          {/*  videoWidth={1920}*/}
-          {/*  videoHeight={1080} />*/}
 
         </div>
 

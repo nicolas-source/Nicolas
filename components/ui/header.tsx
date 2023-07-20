@@ -44,8 +44,9 @@ export default function Header() {
               </li>
               <li>
                 <a
-                    href="/Nicolas-Zheng-Resume.pdf"
-                    download
+                    href="https://drive.google.com/file/d/1zcwNH_B5epLDPWtxs0TQl_FORp3tG6ph/view?usp=sharing"
+                    // href="/Nicolas-Zheng-Resume.pdf"
+                    // download
                     className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Resume
                 </a>

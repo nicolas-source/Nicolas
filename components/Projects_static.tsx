@@ -1,10 +1,13 @@
 import Image from 'next/image'
+import Link from "next/link";
 
 import capstoneImage from '@/public/images/Capstone/CapstonePoster.png'
 import cybersecImage from '@/public/images/CybersecurityAnalysis/CybersecurityAnalysis_Testing.png'
-import shopeerImage  from '@/public/images/Shopeer/shopeer_Login.png'
+import shopeerImage from '@/public/images/Shopeer/shopeer_Login.png'
 import perswebImage from '@/public/images/Personalwebsite/personalwebsite_1.png'
 import ubcdcImage from '@/public/images/UBCDC/UBCDC_FrontPage.png'
+
+import Modal from '@/components/Modal'
 
 export default function Projects() {
     return (
@@ -24,6 +27,7 @@ export default function Projects() {
 
                         {/*Project 1*/}
                         <div className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
+                            <Link href="/ProteinPrediction">
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
@@ -65,6 +69,7 @@ export default function Projects() {
                                     </span>
                                 </div>
                             </div>
+                            </Link>
                         </div>
 
 
@@ -88,7 +93,8 @@ export default function Projects() {
                                             Won Best Analysis Project of 2023 for the UBC Cybersecurity Course
                                         </li>
                                         <li className="mt-1 text-slate-700">
-                                            Analyzed potential security flaws of a real-world web application and reported issues to protect sensitive data
+                                            Analyzed potential security flaws of a real-world web application and
+                                            reported issues to protect sensitive data
                                         </li>
                                     </ul>
                                     <span className="inline-flex items-center rounded-full bg-gray-50 px-2 py-1 mx-1 mt-3
@@ -211,7 +217,8 @@ export default function Projects() {
                                     UBC Dance Club Website
                                     <ul className="list-disc ml-5">
                                         <li className="mt-1 text-slate-700">
-                                            Redesigned website for responsiveness and mobile use to increase web traffic over 5 times
+                                            Redesigned website for responsiveness and mobile use to increase web traffic
+                                            over 5 times
                                         </li>
                                         <li className="mt-1 text-slate-700">
                                             Learned about PHP settings within WordPress
@@ -247,10 +254,12 @@ export default function Projects() {
                         </div>
 
 
-
                     </div>
                 </div>
+
             </div>
+
+
         </section>
     )
 }
