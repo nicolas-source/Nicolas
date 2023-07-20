@@ -1,6 +1,5 @@
 import Image from 'next/image'
 
-import FeatImage01 from '@/public/images/UBCDC_FrontPage.png'
 import FeatImage02 from '@/public/images/CapstonePoster.png'
 import FeatImage03 from '@/public/images/GanttChart.png'
 import FeatImage04 from '@/public/images/CapstoneOverview.gif'

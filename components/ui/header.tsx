@@ -1,7 +1,6 @@
 'use client';
 import Link from 'next/link'
 import MobileMenu from './mobile-menu'
-import ScrollLink from "@/components/ScrollLink";
 
 export default function Header() {
   return (
@@ -22,25 +21,25 @@ export default function Header() {
           <nav className="hidden md:flex md:grow">
             <ul className="flex grow justify-center flex-wrap items-center">
               <li>
-                <ScrollLink
+                <Link
                     href="/#Education"
                     className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Education
-                </ScrollLink>
+                </Link>
               </li>
               <li>
-                <ScrollLink
+                <Link
                     href="/#Projects"
                     className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Projects
-                </ScrollLink>
+                </Link>
               </li>
               <li>
-                <ScrollLink
+                <Link
                     href="/#Experience"
                     className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Experience
-                </ScrollLink>
+                </Link>
               </li>
               <li>
                 <a

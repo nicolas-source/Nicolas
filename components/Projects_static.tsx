@@ -74,6 +74,7 @@ export default function Projects() {
 
                         {/*Project 2*/}
                         <div className="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
+                            <Link href="/CybersecAnalysis">
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
@@ -108,6 +109,7 @@ export default function Projects() {
                                     </span>
                                 </div>
                             </div>
+                            </Link>
                         </div>
 
 
