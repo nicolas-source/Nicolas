@@ -184,6 +184,9 @@ export default function Projects() {
                                     Personal Website
                                     <ul className="list-disc ml-5">
                                         <li className="mt-1 text-slate-700">
+                                            Used NextJs to generate a static site to be deployed using github actions
+                                        </li>
+                                        <li className="mt-1 text-slate-700">
                                             Used NextJs and Tailwind css to rapidly build a single page application
                                         </li>
                                     </ul>
