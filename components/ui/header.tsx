@@ -24,29 +24,36 @@ export default function Header() {
               <li>
                 <ScrollLink
                     href="/#Education"
-                    // onCLick={handleScroll}
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Education
                 </ScrollLink>
               </li>
               <li>
                 <ScrollLink
-                    href="/#CapstoneProject"
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
-                  Capstone Project
+                    href="/#Projects"
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
+                  Projects
                 </ScrollLink>
               </li>
               <li>
                 <ScrollLink
                     href="/#Experience"
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   Experience
                 </ScrollLink>
               </li>
               <li>
+                <a
+                    href="/Nicolas-Zheng-Resume.pdf"
+                    download
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
+                  Resume
+                </a>
+              </li>
+              <li>
                 <Link
                     href="https://www.linkedin.com/in/nicolas-zheng-344a1b159"
-                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3">
+                    className="btn-sm text-white bg-cyan-900 hover:bg-cyan-600 ml-3 rounded-xl">
                   LinkedIn
                 </Link>
               </li>

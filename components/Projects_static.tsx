@@ -1,11 +1,14 @@
 import Image from 'next/image'
-import Link from 'next/link';
 
-import projectData from '@/data/projectData'
+import capstoneImage from '@/public/images/Capstone/CapstonePoster.png'
+import cybersecImage from '@/public/images/CybersecurityAnalysis/CybersecurityAnalysis_Testing.png'
+import shopeerImage  from '@/public/images/Shopeer/shopeer_Login.png'
+import perswebImage from '@/public/images/Personalwebsite/personalwebsite_1.png'
+import ubcdcImage from '@/public/images/UBCDC/UBCDC_FrontPage.png'
 
 export default function Projects() {
     return (
-        <section>
+        <section id="Projects">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
                 <div className="py-8 md:py-16 border-t border-gray-800">
 
@@ -24,7 +27,7 @@ export default function Projects() {
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
-                                           src="/images/Capstone/CapstonePoster.png"
+                                           src={capstoneImage}
                                            width={500}
                                            height={500}
                                            alt="Project Image"/>
@@ -70,7 +73,7 @@ export default function Projects() {
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
-                                           src="/images/CybersecurityAnalysis/CybersecurityAnalysis_Testing.png"
+                                           src={cybersecImage}
                                            width={500}
                                            height={500}
                                            alt="Project Image"/>
@@ -108,7 +111,7 @@ export default function Projects() {
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
-                                           src="/images/Shopeer/shopeer_Login.png"
+                                           src={shopeerImage}
                                            width={500}
                                            height={500}
                                            alt="Project Image"/>
@@ -162,7 +165,7 @@ export default function Projects() {
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
-                                           src="/images/Personalwebsite/personalwebsite_1.png"
+                                           src={perswebImage}
                                            width={500}
                                            height={500}
                                            alt="Project Image"/>
@@ -199,7 +202,7 @@ export default function Projects() {
                             <div className="flex-col">
                                 <div className="">
                                     <Image className="h-48 w-full object-cover hover:object-scale-down"
-                                           src="/images/UBCDC/UBCDC_FrontPage.png"
+                                           src={ubcdcImage}
                                            width={500}
                                            height={500}
                                            alt="Project Image"/>
