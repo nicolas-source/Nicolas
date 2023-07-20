@@ -19,7 +19,6 @@ const nextConfig = {
         unoptimized: true,
     },
 };
-// module.exports = nextConfig
 
 /**
  * @type {import('next').NextConfig}
