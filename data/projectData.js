@@ -91,7 +91,7 @@ export default [
             "Shopeer is for newly independent adults, newcomers, and people in single-person households searching for companions for everyday activities.",
             "Through Shopeer, users can input their activities, match with interested peers, and start group chats.",
             "Running errands or doing recreational activities with peers allows users to reduce costs by buying in bulk or taking advantage of group discounts.",
-            "Link to design doc -> https://docs.google.com/document/d/1Jwydb7bxtgdMewcTUrViGvGbpD4DheYGjudxitidoJE/edit?usp=sharing"
+            // "Link to design doc -> https://docs.google.com/document/d/1Jwydb7bxtgdMewcTUrViGvGbpD4DheYGjudxitidoJE/edit?usp=sharing"
         ],
         projectDate: 'May 2022 - Aug 2022',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
@@ -137,7 +137,7 @@ export default [
             "Used NextJs App Router for dynamic routing and dynamically building formatted pages",
             "Set up hosting on Oracle cloud vm",
         ],
-        projectDate: 'Jul, 2023',
+        projectDate: 'Jul 2023 - Jul 2023',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [
             {
@@ -147,6 +147,10 @@ export default [
             {
                 title: 'titleName',
                 img: '/images/Personalwebsite/personalwebsite_2.png',
+            },
+            {
+                title: 'titleName',
+                img: '/images/Personalwebsite/personalwebsite_3.png',
             },
         ],
     },
@@ -163,7 +167,7 @@ export default [
         projectInfo: [
             "Redesigned website for responsiveness and mobile use to increase web traffic over 5 times",
         ],
-        projectDate: 'May 2020',
+        projectDate: 'May 2020 - Jun 2020',
         projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
         projectImages: [
             {
