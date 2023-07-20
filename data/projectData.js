@@ -127,8 +127,7 @@ export default [
         shortName: "PersonalWebsite",
         name: "Personal Website",
                 description: [
-            "Used NextJs App Router for dynamic routing and dynamically building formatted pages",
-            "Set up hosting on Oracle cloud vm",
+            "Used NextJs to generate a static site to be deployed using github actions",
         ],
         image: "/images/Personalwebsite/personalwebsite_1.png",
         link: "/project/PersonalWebsite",
