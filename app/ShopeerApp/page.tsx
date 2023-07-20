@@ -3,9 +3,9 @@ import Image from 'next/image'
 import FeatImage01 from '@/public/images/Shopeer/shopeer_Login.png'
 import FeatImage02 from '@/public/images/Shopeer/shopeer_GoogleAuth.png'
 import FeatImage03 from '@/public/images/Shopeer/shopeer_ChatUser.png'
-// import FeatImage04 from '@/public/images/Shopeer/shopeer_Modules.png'
+import FeatImage04 from '@/public/images/Shopeer/shopeer_Modules.png'
 import FeatImage05 from '@/public/images/Shopeer/shopeer_DB_Schema.png'
-// import FeatImage06 from '@/public/images/Shopeer/shopeer_UserUseCase.png'
+import FeatImage06 from '@/public/images/Shopeer/shopeer_UserUseCase.png'
 
 import projectData from "@/data/projectData";
 
@@ -103,18 +103,18 @@ export default function Zigzag() {
 
                         <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
                             {/* Image */}
-                            {/*<div*/}
-                            {/*    className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl"*/}
-                            {/*    data-aos="fade-up">*/}
-                            {/*    <Image className="*/}
-                            {/*    w-auto*/}
-                            {/*    mx-auto*/}
-                            {/*    md:max-w-none*/}
-                            {/*    h-auto*/}
-                            {/*    max-h-96*/}
-                            {/*    " src={FeatImage04} width={540}*/}
-                            {/*           height={405} alt="Features 02"/>*/}
-                            {/*</div>*/}
+                            <div
+                                className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl"
+                                data-aos="fade-up">
+                                <Image className="
+                                w-auto
+                                mx-auto
+                                md:max-w-none
+                                h-auto
+                                max-h-96
+                                " src={FeatImage04} width={540}
+                                       height={405} alt="Features 02"/>
+                            </div>
                             {/* Content */}
                             <div
                                 className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1"
@@ -129,22 +129,22 @@ export default function Zigzag() {
                                        height={405} alt="Features 01"/>
                             </div>
                         </div>
-                        {/*<div className="md:grid md:grid-cols-12 md:gap-6 items-center">*/}
-                        {/*    /!* Image *!/*/}
-                        {/*    <div*/}
-                        {/*        className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl"*/}
-                        {/*        data-aos="fade-up">*/}
-                        {/*        <Image className="*/}
-                        {/*        w-auto*/}
-                        {/*        mx-auto*/}
-                        {/*        md:max-w-none*/}
-                        {/*        h-auto*/}
-                        {/*        max-h-96*/}
-                        {/*        " src={FeatImage06} width={540}*/}
-                        {/*               height={405} alt="Features 02"/>*/}
-                        {/*    </div>*/}
+                        <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+                            {/* Image */}
+                            <div
+                                className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl"
+                                data-aos="fade-up">
+                                <Image className="
+                                w-auto
+                                mx-auto
+                                md:max-w-none
+                                h-auto
+                                max-h-96
+                                " src={FeatImage06} width={540}
+                                       height={405} alt="Features 02"/>
+                            </div>
 
-                        {/*</div>*/}
+                        </div>
                     </div>
                 </div>
 
