@@ -19,7 +19,7 @@ export default [
             "Used JIRA and followed AGILE development methodology"
         ],
         projectDate: 'Sep 2022 - Apr 2023',
-        projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
+        projectObjective: "Objective",
         projectImages: [
             {
                 title: 'titleName',
@@ -94,7 +94,7 @@ export default [
             // "Link to design doc -> https://docs.google.com/document/d/1Jwydb7bxtgdMewcTUrViGvGbpD4DheYGjudxitidoJE/edit?usp=sharing"
         ],
         projectDate: 'May 2022 - Aug 2022',
-        projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
+        projectObjective: "Objective",
         projectImages: [
             {
                 title: 'titleName',
@@ -128,16 +128,17 @@ export default [
         name: "Personal Website",
                 description: [
             "Used NextJs to generate a static site to be deployed using github actions",
+            "Used Tailwind CSS to rapidly build a single page application",
         ],
         image: "/images/Personalwebsite/personalwebsite_1.png",
         link: "/project/PersonalWebsite",
         tools: ["React", "NextJs", "NodeJs"],
         projectInfo: [
-            "Used NextJs App Router for dynamic routing and dynamically building formatted pages",
-            "Set up hosting on Oracle cloud vm",
+            "Used NextJs to generate a static site to be deployed using github actions",
+            "Used Tailwind CSS to rapidly build a single page application",
         ],
         projectDate: 'Jul 2023 - Jul 2023',
-        projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
+        projectObjective: "Objective",
         projectImages: [
             {
                 title: 'titleName',
@@ -167,7 +168,7 @@ export default [
             "Redesigned website for responsiveness and mobile use to increase web traffic over 5 times",
         ],
         projectDate: 'May 2020 - Jun 2020',
-        projectObjective: "aaaaaaaaaaaaaaaaaaaaaaaaa",
+        projectObjective: "Objective",
         projectImages: [
             {
                 title: 'titleName',
