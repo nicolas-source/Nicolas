@@ -7,7 +7,6 @@ import shopeerImage from '@/public/images/Shopeer/shopeer_Login.png'
 import perswebImage from '@/public/images/Personalwebsite/personalwebsite_1.png'
 import ubcdcImage from '@/public/images/UBCDC/UBCDC_FrontPage.png'
 
-import Modal from '@/components/Modal'
 
 export default function Projects() {
     return (
