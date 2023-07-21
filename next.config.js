@@ -10,7 +10,7 @@ const assetPrefix = `/${repo}/`;
 const basePath = `/${repo}`;
 
 const nextConfig = {
-    trailingSlash: true,
+    // trailingSlash: true,
 
     output: "export",
     // basePath: basePath,
